@@ -175,6 +175,9 @@ The only thing you need to customize is **which areas to farm** and **what items
 
 ---
 
+<img src="d2r.jpg" width="800"><img src="d2r_2.jpg" width="800">
+<img src="d2r_3.jpg" width="800"><img src="d2r_4.jpg" width="800">
+
 <br/>
 
 ## Getting Started
@@ -186,3 +189,6 @@ The only thing you need to customize is **which areas to farm** and **what items
 5. **Launch** — everything runs automatically
 
 > **Tip:** Start with a single instance and monitor the live stats dashboard. Wanderer's auto-detection handles the rest.
+
+## Find out more
+https://discord.gg/ppgE9WTzf5
