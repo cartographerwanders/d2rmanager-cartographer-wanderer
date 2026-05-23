@@ -1,4 +1,4 @@
-# Cartographer · Wanderer · D2R-Manager 
+# Cartographer · Wanderer · D2R-Manager
 
 > **A complete tool suite for Diablo 2 Resurrected** — real-time map overlay, autonomous farming automation, and multi-instance launcher, all in one tightly integrated ecosystem.
 
