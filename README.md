@@ -153,7 +153,8 @@ Wanderer prioritizes **ease of use and auto-detection** over configuration compl
 - Character class and combat mode are detected automatically from your learned skills
 - FCR breakpoints, cast timing, and skill levels are resolved in real-time — no manual input needed
 - Buffs, auras, and Mercenary state are checked and managed without user intervention
-- Area routing, Terror Zone prioritization, and town management are handled autonomously
+- Area routing, Terror Zone prioritization, town management are handled autonomously
+- Supports usage of Worldstone Shards to farm whole acts
 - Immunity-aware combat rotation adapts to targets automatically
 
 The only thing you need to customize is **which areas to farm** and **what items to pick.**
