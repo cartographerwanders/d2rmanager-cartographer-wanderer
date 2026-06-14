@@ -138,7 +138,7 @@ Filters are defined in `itemfilter.yaml`:
 
 ## Autonomous Farming Automation
 
-The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, and Warlock**.
+The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock and Barbarian**.
 
 ### What is Wanderer?
 
@@ -170,7 +170,7 @@ The only thing you need to customize is **which areas to farm** and **what items
 | **Town Routine** | 12-step NPC interaction: repair, gamble, stash, potions, merc revive, corpse recovery |
 | **Game Management** | Autonomous game creation, exit sequencing, character selection |
 | **Chaos Sanctuary** | Seal/Diablo objective handler |
-| **Chest Opening** | Reactive chest interaction with teleport |
+| **Chest Opening** | Opens non-locked chest |
 | **Waypoint Travel** | Multi-act waypoint navigation state machine |
 | **Portal Transition** | Quest portal handling |
 
