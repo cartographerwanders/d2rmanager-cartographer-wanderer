@@ -33,7 +33,8 @@ No administrator privileges required. No game files are modified.
 
 #### Account Management
 
-- Store multiple Battle.net accounts (name, email, password)
+- Store multiple Battle.net accounts (name, email, password, token)
+- Supports 2FA secured accounts using the token based login method
 - Passwords are **encrypted** — tied to your Windows user, never stored in plaintext
 
 #### Profile System
