@@ -155,7 +155,10 @@ Wanderer prioritizes **ease of use and auto-detection** over configuration compl
 - FCR breakpoints, cast timing, and skill levels are resolved in real-time — no manual input needed
 - Buffs, auras, and Mercenary state are checked and managed without user intervention
 - Area routing, Terror Zone prioritization, town management are handled autonomously
+- Picks up Uniques/Sets for Chronicle completion when missing without itemfilter configuration
 - Supports usage of Worldstone Shards to farm whole acts
+- Materials, Runes, Gems are automatically stacked to 99
+- Restocks on Full Rejuvenation Potions from Materials Tab
 - Immunity-aware combat rotation adapts to targets automatically
 
 The only thing you need to customize is **which areas to farm** and **what items to pick.**
