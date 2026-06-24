@@ -139,7 +139,7 @@ Filters are defined in `itemfilter.yaml`:
 
 ## Autonomous Farming Automation
 
-The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock and Barbarian**.
+The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock, Barbarian and Amazon**.
 
 ### What is Wanderer?
 
