@@ -1,6 +1,6 @@
 # D2R-Manager · Cartographer · Wanderer
 
-> **A complete tool suite for Diablo 2 Resurrected** — real-time map overlay, autonomous farming automation, and multi-instance launcher, all in one tightly integrated ecosystem.
+> **A complete tool suite for Diablo 2 Resurrected Battle.Net and Steam** — real-time map overlay, autonomous farming automation, and multi-instance launcher, all in one tightly integrated ecosystem.
 
 ---
 
@@ -8,7 +8,7 @@
 
 All three tools are built around a core principle: **maximum comfort with minimum configuration.**
 
-Cartographer comes with a sensible configuration that fits all supported classes and builds out of the box. Wanderer auto-detects your character class, learned skills, gear, and breakpoints — there is no profile to write, no script to configure, and no external tool required. Select the areas you want to farm and go.
+Cartographer comes with a sensible configuration that fits all supported classes and builds out of the box. Wanderer auto-detects your character class, learned skills, gear, and breakpoints — there is no profile to write, no script to configure, and no external tool required. Select the areas you want to farm and go. Supports Worldstone Shard usage to farm whole acts.
 
 - **No administrator privileges required**
 - **No legacy D2 required**
@@ -33,7 +33,7 @@ No administrator privileges required. No game files are modified.
 
 #### Account Management
 
-- Store multiple Battle.net accounts (name, email, password, token)
+- Store multiple Battle.net accounts (name, email, password, token) / Steam account
 - Supports 2FA secured accounts using the token based login method
 - Passwords are **encrypted** — tied to your Windows user, never stored in plaintext
 
@@ -139,7 +139,7 @@ Filters are defined in `itemfilter.yaml`:
 
 ## Autonomous Farming Automation
 
-The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock, Barbarian and Amazon**.
+The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, gem/rune cubing and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock, Barbarian and Amazon**.
 
 ### What is Wanderer?
 
@@ -158,6 +158,7 @@ Wanderer prioritizes **ease of use and auto-detection** over configuration compl
 - Picks up Uniques/Sets for Chronicle completion when missing without itemfilter configuration
 - Supports usage of Worldstone Shards to farm whole acts
 - Materials, Runes, Gems are automatically stacked to 99
+- Can cube up gems and runes via checkbox configuration
 - Restocks on Full Rejuvenation Potions from Materials Tab
 - Immunity-aware combat rotation adapts to targets automatically
 
