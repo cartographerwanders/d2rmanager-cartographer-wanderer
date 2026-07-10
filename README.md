@@ -120,7 +120,7 @@ Monsters appear as color-coded shapes on the map:
 
 #### Item Filter & Loot
 
-Filters are defined in `itemfilter.yaml`:
+Filters are defined in `itemfilter.yaml` and is configured via a fully featured UI in D2R-Manager:
 
 - **Global filter** — applies to all characters
 - **Per-character filter** — overrides the global filter for that character
