@@ -1,6 +1,6 @@
 # D2R-Manager · Cartographer · Wanderer
 
-> **A complete tool suite for Diablo 2 Resurrected Battle.Net and Steam** — real-time map overlay, autonomous farming automation, and multi-instance launcher, all in one tightly integrated ecosystem.
+> **A complete tool suite for Diablo 2 Resurrected Battle.Net and Steam** — real-time map overlay, autonomous farming automation, multi-instance launcher and inventory synchronisation, all in one tightly integrated ecosystem.
 
 ---
 
@@ -55,6 +55,17 @@ Dedicated dashboard showing live stats for all automation instances:
 
 - **Line 1:** Area · Run timer · Games · Games/h · Avg run duration · Deaths · Chickens
 - **Line 2:** Magic Find · Max HP · Max Mana · Items stashed · Level + XP% · XP/h
+
+
+#### Itemfilter Editor
+- fully customize your Itemfilter with an easy to use interface
+
+#### Inventory
+- syncs your character stashtabs so you can see what you find without needing to go into the game
+- search helps you find that particular item you know you have but don't know where
+
+#### Drop Log
+- keeps track of the items your Wanderer finds with information about who, what, when and where
 
 ---
 
