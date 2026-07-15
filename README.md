@@ -194,6 +194,8 @@ The only thing you need to customize is **which areas to farm** and **what items
 
 <img src="d2r.jpg" width="800"><img src="d2r_2.jpg" width="800">
 <img src="d2r_3.jpg" width="800"><img src="d2r_4.jpg" width="800">
+<img src="droplog.jpg" width="800"><img src="inventory.jpg" width="800">
+<img src="itemfilter.jpg" width="800"><img src="wanderer.jpg" width="800">
 
 <br/>
 
