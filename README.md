@@ -1,6 +1,6 @@
 # D2R-Manager · Cartographer · Wanderer
 
-> **A complete tool suite for Diablo 2 Resurrected Battle.Net and Steam** — real-time map overlay, autonomous farming automation, multi-instance launcher and inventory synchronisation, all in one tightly integrated ecosystem.
+> **A complete tool suite for Diablo 2 Resurrected Battle.Net and Steam** — real-time map overlay, autonomous farming automation, multi-instance launcher and inventory synchronization, all in one tightly integrated ecosystem.
 
 ---
 
@@ -129,6 +129,11 @@ Monsters appear as color-coded shapes on the map:
 | Party members | Positions on map with area labels |
 | Real-time clock | — |
 
+
+#### Auto Potions
+
+Manages usage Health, Mana and Rejuv Potions for yourself and Mercenary based on configurable thresholds.
+
 #### Item Filter & Loot
 
 Filters are defined in `itemfilter.yaml` and is configured via a fully featured UI in D2R-Manager:
@@ -140,7 +145,7 @@ Filters are defined in `itemfilter.yaml` and is configured via a fully featured 
 
 **Filter capabilities:** Match by quality, base type, ethereal state, class skills, skill bonuses, and skill procs. Combine conditions with AND/OR logic, require a minimum number of matches, or match combined stat totals. Weighted scoring rules with configurable minimum scores.
 
-**Pickup:** 4 tiles direct range, up to 200 tiles with teleport (Wanderer mode). Capacity checks before pickup. Tome scrolls only when room available.
+**Pickup:** Auto picks up items based on your filter configuration once you get in range.
 
 ---
 
@@ -150,13 +155,11 @@ Filters are defined in `itemfilter.yaml` and is configured via a fully featured 
 
 ## Autonomous Farming Automation
 
-The full automation system built into Cartographer — exploration, combat, looting, buffing, town management, gem/rune cubing and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock, Barbarian and Amazon**.
+The full automation system built into Cartographer — exploration (teleport and walk), combat, looting, buffing, town management, gem/rune cubing and game creation — completely unattended. Supports **Sorceress, Paladin, Druid, Warlock, Barbarian and Amazon**.
 
 ### What is Wanderer?
 
 Wanderer handles the entire farming loop from exploration and combat to looting, buffing, town management, and game creation — completely unattended. Optimized for *Resurrected* and *RotW*. Classic is not supported.
-
-Wanderer is enabled per-profile in D2R-Manager and configured through the Cartographer settings menu (Insert key) or D2R-Manager.
 
 ### Design Philosophy
 
@@ -198,16 +201,6 @@ The only thing you need to customize is **which areas to farm** and **what items
 <img src="itemfilter.jpg" width="800"><img src="wanderer.jpg" width="800">
 
 <br/>
-
-## Getting Started
-
-1. **Set up your accounts** in D2R-Manager
-2. **Create a profile** with your desired region and settings
-3. **Enable Cartographer** for real-time map overlay
-4. **Enable Wanderer** for full automation, select your farming areas
-5. **Launch** — everything runs automatically
-
-> **Tip:** Start with a single instance and monitor the live stats dashboard. Wanderer's auto-detection handles the rest.
 
 ## Find out more
 https://discord.gg/ppgE9WTzf5
