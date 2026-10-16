@@ -166,7 +166,7 @@ Wanderer handles the entire farming loop from exploration and combat to looting,
 Wanderer prioritizes **ease of use and auto-detection** over configuration complexity.
 
 - Character class and combat mode are detected automatically from your learned skills
-- FCR breakpoints, cast timing, and skill levels are resolved in real-time — no manual input needed
+- FCR/IAS breakpoints and skill levels are resolved in real-time — no manual input needed
 - Buffs, auras, and Mercenary state are checked and managed without user intervention
 - Area routing, Terror Zone prioritization, town management are handled autonomously
 - Picks up Uniques/Sets for Chronicle completion when missing without itemfilter configuration
@@ -189,6 +189,7 @@ The only thing you need to customize is **which areas to farm** and **what items
 | **Town Routine** | 12-step NPC interaction: repair, gamble, stash, potions, merc revive, corpse recovery |
 | **Game Management** | Autonomous game creation, exit sequencing, character selection |
 | **Chaos Sanctuary** | Seal/Diablo objective handler |
+| **Uber areas** | supports all Uber areas with Smite Paladin using boss baiting to make the encounters fairly easy |
 | **Chest Opening** | Opens non-locked chest |
 | **Waypoint Travel** | Multi-act waypoint navigation state machine |
 | **Portal Transition** | Quest portal handling |
