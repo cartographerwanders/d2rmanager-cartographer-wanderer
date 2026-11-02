@@ -159,7 +159,7 @@ The full automation system built into Cartographer — exploration (teleport and
 
 ### What is Wanderer?
 
-Wanderer handles the entire farming loop from exploration and combat to looting, buffing, town management, and game creation — completely unattended. Optimized for *Resurrected* and *RotW*. Classic is not supported.
+Wanderer handles the entire farming loop from exploration and combat to looting, buffing, town management, and game creation — completely unattended. Optimized for *RotW*, *LoD* and *Classic*.
 
 ### Design Philosophy
 
